@@ -1,0 +1,132 @@
+#navbar-iframe {display: none;
+}
+::-moz-selection {
+background:#FFEBF5;
+color:#333333;
+}
+::selection {
+background:#FFEBF5;
+text-shadow: 1px 1px 1px #FF99CC;
+color:#333333;
+}
+
+::-webkit-scrollbar {
+width: 9px;
+height: 9px;
+}
+::-webkit-scrollbar-track-piece {
+background-color: #FFF0F5;
+}
+::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal {
+background-color: #FFE0EB;
+border: 1px solid #FFA3D1;
+}
+body {
+background:url(https://1.bp.blogspot.com/-HDc0qKjW8L4/XqYtQPeCz7I/AAAAAAAADKs/xPJUXNw_kRkd-H868uAKnzNhW7yfDZnlgCLcBGAsYHQ/s1600/1.jpg);
+font-family:short stack;
+font-size: 11px;
+color:#000000;
+background-attachment:fixed;
+}
+
+a:link, a:visited {
+color: #000;
+text-decoration:none;
+}
+
+a:hover{
+color:#FFF;
+background: #ccc;
+border-radius: 4px;
+}
+
+.sidebar {
+padding:15px;
+border-radius:10px;
+margin:6px;
+border:3px solid #eee;
+background:#FFFFFF;
+}
+.tweet {
+width:500px;
+padding:20px;
+border-radius:10px;
+margin:6px;
+border:3px solid #eee;
+background:#FFFFFF;
+}
+.sidebar2 {
+padding: 5px;
+}
+.h1 {
+border-bottom:3px solid #FFD1E0;border-top:3px solid #FFD1E0;
+font-family: cheri;
+text-align: center;
+letter-spacing:2px;
+text-shadow:1px 1px 4px #666666;
+color:#ffffff !important;
+background:url(https://2.bp.blogspot.com/-5hYmeqHF_to/XqY3s3f2FaI/AAAAAAAADLU/GT1Caj8qUUIgjASYrygE2PudSDFujxdjACLcBGAsYHQ/s1600/4.jpg);
+font-size:18px;
+padding:5px;
+margin-bottom:3px;
+border-radius: 15px;
+}
+
+.h3 {
+border-bottom:3px solid purple;border-top:3px solid purple;
+font-family: century gothic;
+text-align: center;
+letter-spacing:2px;
+color:#000 !important;
+font-size:16px;
+padding:5px;
+margin-bottom:3px;
+border-radius: 15px;
+}
+
+a.la{
+background: transparent;
+padding: 2px;
+letter-spacing: 3px;
+font-family: Bad Script;
+font-size: 13px;
+color: #000;
+-webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+-ms-transition: all 1s ease-in-out;
+transition: all 1s ease-in-out;
+}
+
+a.la:hover {
+border-radius:10px;
+padding: 2px;
+padding-left:70px;
+}
+
+img.icons{
+width:50px;
+float:right;
+}
+
+s {
+color: #808080;
+text-decoration: line through;
+}
+i {
+color: #808080;
+}
+u {
+color: #808080;
+padding-bottom:2px;
+border-bottom: 2px #FFC2D6 solid;
+text-decoration: none;
+-webkit-transition: 0.5s;
+-moz-transition: 0.5s;
+}
+u:hover {
+color: #000000;
+border-bottom: 10px transparent solid;
+-webkit-transition: 0.5s;
+-moz-transition: 0.5s;
+}
